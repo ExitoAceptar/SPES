@@ -2,8 +2,6 @@ import numpy as np
 import os
 from tqdm import tqdm
 from collections import defaultdict
-
-import os
 import time
 
 def cal_correlation(pre_arr, arr, lag):
