@@ -17,7 +17,7 @@ for file in os.listdir("../mid-data/func_candi_tuple_lst"):
                 for tri_tuple_str in tri_tuple_lst.split('\t'):
                     func_candi[func].add(tri_tuple_str)
 
-print(len(func_candi))
+#print(len(func_candi))
 
 func_candi_json = {func:[] for func in func_candi}
 for func, tri_tuple_set in func_candi.items():
