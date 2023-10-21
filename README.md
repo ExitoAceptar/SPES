@@ -1,5 +1,5 @@
 # SPES
-This repo is for our submission for ICSE 2024.
+This repo is for our submission for WWW 2024.
 
 **Step 1:** Run `categorize.ipynb` for well-known function categorization.
 
